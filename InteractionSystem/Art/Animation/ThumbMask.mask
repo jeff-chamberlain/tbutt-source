@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: ThumbMask
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Hand_Root
+    m_Weight: 0
+  - m_Path: Hand_Root/Hand_Palm
+    m_Weight: 0
+  - m_Path: Hand_Root/Hand_Palm/Hand_Index_Base
+    m_Weight: 0
+  - m_Path: Hand_Root/Hand_Palm/Hand_Index_Base/Hand_Index_1
+    m_Weight: 0
+  - m_Path: Hand_Root/Hand_Palm/Hand_Index_Base/Hand_Index_1/Hand_Index_2
+    m_Weight: 0
+  - m_Path: Hand_Root/Hand_Palm/Hand_Index_Base/Hand_Index_1/Hand_Index_2/Hand_Index_End
+    m_Weight: 0
+  - m_Path: Hand_Root/Hand_Palm/Hand_middle_Base
+    m_Weight: 0
+  - m_Path: Hand_Root/Hand_Palm/Hand_middle_Base/Hand_middle_1
+    m_Weight: 0
+  - m_Path: Hand_Root/Hand_Palm/Hand_middle_Base/Hand_middle_1/Hand_middle_2
+    m_Weight: 0
+  - m_Path: Hand_Root/Hand_Palm/Hand_middle_Base/Hand_middle_1/Hand_middle_2/Hand_middle_End
+    m_Weight: 0
+  - m_Path: Hand_Root/Hand_Palm/Hand_pinky_Base
+    m_Weight: 0
+  - m_Path: Hand_Root/Hand_Palm/Hand_pinky_Base/Hand_pinky_1
+    m_Weight: 0
+  - m_Path: Hand_Root/Hand_Palm/Hand_pinky_Base/Hand_pinky_1/Hand_pinky_2
+    m_Weight: 0
+  - m_Path: Hand_Root/Hand_Palm/Hand_pinky_Base/Hand_pinky_1/Hand_pinky_2/Hand_pinky_end
+    m_Weight: 0
+  - m_Path: Hand_Root/Hand_Palm/Hand_ring_Base
+    m_Weight: 0
+  - m_Path: Hand_Root/Hand_Palm/Hand_ring_Base/Hand_ring_1
+    m_Weight: 0
+  - m_Path: Hand_Root/Hand_Palm/Hand_ring_Base/Hand_ring_1/Hand_ring_2
+    m_Weight: 0
+  - m_Path: Hand_Root/Hand_Palm/Hand_ring_Base/Hand_ring_1/Hand_ring_2/Hand_ring_End
+    m_Weight: 0
+  - m_Path: Hand_Root/Hand_Palm/Hand_Thumb_Base
+    m_Weight: 1
+  - m_Path: Hand_Root/Hand_Palm/Hand_Thumb_Base/Hand_Thumb_1
+    m_Weight: 1
+  - m_Path: Hand_Root/Hand_Palm/Hand_Thumb_Base/Hand_Thumb_1/Hand_Thumb_2
+    m_Weight: 1
+  - m_Path: Hand_Root/Hand_Palm/Hand_Thumb_Base/Hand_Thumb_1/Hand_Thumb_2/Hand_Thumb_End
+    m_Weight: 1
+  - m_Path: Player_Hand_Female
+    m_Weight: 0
